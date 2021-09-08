@@ -1,0 +1,4 @@
+{
+    "port": 8000,
+    "mongoURL": "mongodb+srv://Alex:1234@cluster0.xueja.mongodb.net/practice?retryWrites=true&w=majority"
+}

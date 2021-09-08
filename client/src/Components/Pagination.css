@@ -1,0 +1,16 @@
+.page-link {
+    text-decoration: none;
+    
+}
+
+.page-item {
+    list-style: none;
+    
+    display: inline;
+    font-size: 20px;
+    margin-left: 85px;
+    margin-right: 85px;
+   
+    
+    
+}
